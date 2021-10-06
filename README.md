@@ -1,3 +1,4 @@
+# ABOUT MYSELF
 Greetings, I'm Wan Xin. I'm 19 years old and currently study Diploma in Information Technology (IT) at Sunway College, Kuala Lumpur.
 
 Here's the programming skills I learnt:
